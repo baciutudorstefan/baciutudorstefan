@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Style-CSS-informational?&color=red&style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logoColor=white&logo=styled-components)
+![](https://img.shields.io/badge/Style-CSS-informational?style=plastic&logoColor=white&logo=styled-components)
 
 <!-- Actual text -->
 
