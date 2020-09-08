@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 Hi there 👋 my name is <b>Baciu Tudor</b> and I'm a self tough Frontend developer located in Iasi, Romania.
 
 Here are some ideas to get you started:
