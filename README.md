@@ -19,18 +19,19 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logoColor=white&logo=styled-components) ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logoColor=white&logo=styled-components) ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logoColor=white&logo=styled-components)
 
+<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.4]][3].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/baciutudorstefan/icons/master/instagram-3.png
+[1.2]: https://raw.githubusercontent.com/baciutudorstefan/icons/master/instagram-3.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/baciutudorstefan/icons/master/linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.instagram.com/tbography/
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.instagram.com/tbography
+[2]: https://www.linkedin.com/in/tudor-ştefan-baciu
 
 </body>
 
