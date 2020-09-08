@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-<div> ![Baciu Tudor github stats](https://github-readme-stats.vercel.app/api?username=baciutudorstefan&show_icons=true&theme=vue-dark)</div>
+![Baciu Tudor github stats](https://github-readme-stats.vercel.app/api?username=baciutudorstefan&show_icons=true&theme=vue-dark)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baciutudorstefan&show_icons=true&theme=vue-dark"/>
 
