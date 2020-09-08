@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.4]][3].
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -32,6 +32,8 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.4]][3].
 
 [1]: https://www.instagram.com/tbography
 [2]: https://www.linkedin.com/in/tudor-ştefan-baciu
+
+
 
 </body>
 
