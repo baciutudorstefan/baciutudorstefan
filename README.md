@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baciutudorstefan&show_icons=true&theme=vue-dark"/>
 
-![](https://img.shields.io/badge/Style-CSS-informational?&color=red&style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=plastic&logoColor=white&logo=styled-components)
 
