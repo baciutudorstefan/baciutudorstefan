@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 <body>
 
-![Baciu Tudor github stats](https://github-readme-stats.vercel.app/api?username=baciutudorstefan&show_icons=true&theme=gruvbox)
+![Baciu Tudor github stats](https://github-readme-stats.vercel.app/api?username=baciutudorstefan&show_icons=true&theme=vue-dark)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baciutudorstefan&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baciutudorstefan&show_icons=true&theme=vue-dark"/>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?&color=red&style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
