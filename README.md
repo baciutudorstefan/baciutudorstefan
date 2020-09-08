@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baciutudorstefan&show_icons=true&theme=vue-dark"/>
 
 
-🔧 Technologies & Tools
+🔧 <h2>Technologies & Tools</h2>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=plastic&logoColor=white&logo=styled-components)
 
