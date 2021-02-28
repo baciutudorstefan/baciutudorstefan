@@ -3,7 +3,7 @@ Hi there 👋 my name is <b>Baciu Tudor</b> and I'm a self tough Frontend develo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with ReactJS for my <a href="https://baciutudorstefan.github.io/portfolio/">porfolio</a>
+- 🔭 I’m currently working with ReactJS for my <a href="https://tudorbaciu.com">porfolio</a>
 - 🌱 I’m currently learning more about Frontend development
 
 
