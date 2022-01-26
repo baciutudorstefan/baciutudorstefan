@@ -1,5 +1,8 @@
 
-Hi there 👋 my name is <b>Baciu Tudor</b> and I'm a self tough Frontend developer located in Iasi, Romania.
+Hi there 👋 my name is <b>Baciu Tudor</b> and I'm a self taught frontend developer 
+located in Iasi, Romania 
+The main area of my expertise is front end developement 
+HTML, CSS, JS, ReactJs and Wordpress..
 
 Here are some ideas to get you started:
 
