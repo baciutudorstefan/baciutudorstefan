@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with ReactJS for my <a href="https://tudorbaciu.com" target="_blank">porfolio</a>
 - 🌱 I’m currently learning more about Frontend development
 
-
+<a href="https://app.daily.dev/BaciuTudor"><img src="https://api.daily.dev/devcards/2d7708c527cc4b968fd888afbb2f6f11.png?r=x3j" width="400" alt="Baciu Tudor Stefan's Dev Card"/></a>
 
 ![Baciu Tudor github stats](https://github-readme-stats.vercel.app/api?username=baciutudorstefan&show_icons=true&theme=vue-dark)
 
